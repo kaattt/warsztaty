@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # warsztaty a teraz inna zmiana
 
 Witaj świecie 
