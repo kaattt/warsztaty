@@ -1,4 +1,4 @@
-# warsztaty
+# warsztaty pierwsze
 
 Witaj świecie 
 
