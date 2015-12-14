@@ -1,1 +1,4 @@
 debug.log
+
+
+*.swp     ignoruje wszystkie pliki .swp
