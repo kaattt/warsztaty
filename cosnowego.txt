@@ -1,5 +1,7 @@
- ksaznckNC KVNAc
-MNKSCNK /sBJJ FMnL/KDANK;NC KFC ksmdmml
+
 
 dodatokwa zmiana jako git add
+
+
+modygikacja do git diff
 
